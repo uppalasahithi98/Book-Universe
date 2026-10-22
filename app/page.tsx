@@ -350,7 +350,7 @@ export default function Home() {
         </p>
 
         <p className="mt-2 text-xs text-gray-500">
-          © {new Date().getFullYear()} Book Universe
+          © 2026 Book Universe
         </p>
       </footer>
     </main>
